@@ -1,2 +1,3 @@
 # bromelaina
-Estudiso sobre bromelaina
+
+Estudios sobre bromelaina, repositorio para la divulgación científica 
